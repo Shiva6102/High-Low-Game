@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">High Low Game</string>
+    <string name="Welcome_msg">Welcome to the High Low Game</string>
+    <string name="Game_hint">I am choosing a number between 1 to 25. Can you guess the exactly same number.</string>
+    <string name="hint">Enter the number</string>
+    <string name="guess">Guess</string>
+</resources>
